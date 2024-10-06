@@ -4,7 +4,7 @@ This quartz filter compresses the JPEG in a PDF, while maintaining usable resolu
 
 To install this filter for the currently logged-in user, run the below command in Terminal:
 ```
-mkdir -p ~/Library/Filters/ && curl -o ~/Library/Filters/Compress\ Images\ in\ PDF.qfilter https://raw.githubusercontent.com/superman-lopez/compressjpeginpreview/master/Compress%20Images%20in%20PDF.qfilter
+mkdir -p ~/Library/Filters/ && curl -o ~/Library/Filters/Compress\ Images\ in\ PDF.qfilter https://raw.githubusercontent.com/ERespaldiza/compressjpeginpreview/master/Compress%20Images%20in%20PDF.qfilter
 ```
 
 ## Usage
