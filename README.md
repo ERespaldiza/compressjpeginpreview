@@ -1,4 +1,10 @@
 # compressjpeginpreview
+
+## Fork changes with testing purposes
+Changed quality ratio from 0,4 to 0,6.
+
+With an original file of 340MB, a 0,4 value reduces the file to 90MB and is still legible except for parts with small fonts. Changing to 0,6 reduces the file size to 102,2MB with better quality.
+
 This quartz filter compresses the JPEG in a PDF, while maintaining usable resolution.  The purpose of this quartz filter is to use it with Apple's Preview.app to quickly reduce the file size of images in PDF's while maintaining legibility.  macOS does have a built-in filter called "Reduce File Size" that has the same purpose, however this filter is too aggressive and converts images to a resolution that is too low.
 ## Install
 
