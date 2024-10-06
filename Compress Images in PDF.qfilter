@@ -16,7 +16,7 @@
 			<key>ImageSettings</key>
 			<dict>
 				<key>Compression Quality</key>
-				<real>0.40</real>
+				<real>0.60</real>
 				<key>ImageCompression</key>
 				<string>ImageJPEGCompress</string>
 				<key>ImageScaleSettings</key>
